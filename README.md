@@ -7,4 +7,4 @@ This project explores transformer-based models for contextual language understan
 - Named entity recognition (NER)  
 - Sentiment analysis  
 - Question answering  
-- Fine-tuning on custom datasets  
+- Fine-tuning on custom datasets
